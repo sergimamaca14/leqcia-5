@@ -1,0 +1,26 @@
+p {
+	/*ფონტები*/
+	 font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+
+}
+#teqsti {
+	/*ეს არის აბზაცისთვის*/
+	text-indent: 30px;
+	/*ეს არის ხაზებს შორის დაცილებისთვის*/
+	line-height: 25px;
+}
+#dashoreba {
+	/*ასოებს შორის დაცილება*/
+	letter-spacing: 20px;
+	font-weight: 2000;
+
+}
+h4 {
+	/*ეს არის იგივე capslock ყველა ასოს ადიდებს*/
+	text-transform: uppercase;
+	/*მარტო სიტყვის პირველი ასოები დიდდება
+	text-transform: capitalize;*/
+}
